@@ -64,7 +64,7 @@
     "uniqCompNum": 28,
     "versionPublish": "6.1.4",
     "screenshot": "screenshot.png",
-    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-350P16H5Q6\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-350P16H5Q6');\n</script>"
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-878EWLDPVP\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-350P16H5Q6');\n</script>"
   },
   "pages": {
     "index.html": {
